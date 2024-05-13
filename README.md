@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Govind dhakarey and I'm a Web developer, from ....</h2>
+<h2 align="left">Hi 👋! My name is Govind dhakarey and I'm a Web developer, from Agra,India</h2>
 
 ###
 
